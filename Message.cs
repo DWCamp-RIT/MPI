@@ -3,11 +3,11 @@ using Newtonsoft.Json;
 
 namespace mpi {
     public enum ServCall {
-	Init = -1,
-	Terminate = -2,
-	Barrier = -3,
-	Print = -4,
-	Broadcast = -5
+		Init = -1,
+		Terminate = -2,
+		Barrier = -3,
+		Print = -4,
+		Broadcast = -5
     }	
 
     public class Message {
