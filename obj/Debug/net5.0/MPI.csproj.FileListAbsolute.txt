@@ -1,0 +1,5 @@
+D:\Documents\School\CSCI 251\test\MPI\obj\Debug\net5.0\MPI.csproj.AssemblyReference.cache
+D:\Documents\School\CSCI 251\test\MPI\obj\Debug\net5.0\MPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\School\CSCI 251\test\MPI\obj\Debug\net5.0\MPI.AssemblyInfoInputs.cache
+D:\Documents\School\CSCI 251\test\MPI\obj\Debug\net5.0\MPI.AssemblyInfo.cs
+D:\Documents\School\CSCI 251\test\MPI\obj\Debug\net5.0\MPI.csproj.CoreCompileInputs.cache
