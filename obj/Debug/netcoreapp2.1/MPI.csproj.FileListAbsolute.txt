@@ -1,4 +1,0 @@
-D:\Documents\School\CSCI 251\test\MPI\obj\Debug\netcoreapp2.1\MPI.csprojAssemblyReference.cache
-D:\Documents\School\CSCI 251\test\MPI\obj\Debug\netcoreapp2.1\MPI.csproj.CoreCompileInputs.cache
-D:\Documents\School\CSCI 251\test\MPI\obj\Debug\netcoreapp2.1\MPI.AssemblyInfoInputs.cache
-D:\Documents\School\CSCI 251\test\MPI\obj\Debug\netcoreapp2.1\MPI.AssemblyInfo.cs
