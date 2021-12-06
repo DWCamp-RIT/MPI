@@ -16,7 +16,7 @@ namespace mpi
 		private static bool EnqueueForSink (Message msg) {
 			CommResources cr = CommResources.LocateCRById (msg.Sink);
 			if (cr != null) {
-			cr.EnqueueOutgoing(msg);
+				cr.EnqueueOutgoing(msg);
 			}
 			return cr != null;
 		}
